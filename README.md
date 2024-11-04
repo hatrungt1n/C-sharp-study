@@ -24,7 +24,7 @@
    dotnet run
    ```
 
-6. Observe the console output to see the system in action.
-
-To modify the demonstration, you can edit the `Main` method in the `Program.cs` file.
-
+   To run each project separately, use the following command, replacing `path-to-csproj-file` with the actual path to the `.csproj` file:
+   ```
+   dotnet run --project path-to-csproj-file
+   ```
